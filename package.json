@@ -1,0 +1,25 @@
+{
+  "name": "AlwaysOnline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExordiumX/AlwaysOnline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExordiumX/AlwaysOnline/issues"
+  },
+  "homepage": "https://github.com/ExordiumX/AlwaysOnline#readme",
+  "dependencies": {
+    "eris": "^0.16.1",
+    "express": "^4.18.1"
+  }
+}
